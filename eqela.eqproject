@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# homework1
+#
+
+projectname: homework1
+vendorid: com.czarinaagcaoili.example
+mainmodule: com.czarinaagcaoili.example.homework1
